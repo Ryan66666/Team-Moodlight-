@@ -9,7 +9,7 @@
 
 
 
-## Featuers:
+## Featuers
 - 1. Concise information transferred from Pico4ML about person detection
 
 - 2. Intelligent sensor that will only turn on when a human is close-by
